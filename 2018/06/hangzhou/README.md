@@ -1,4 +1,4 @@
-# 第一届Service Mesh meetup·杭州
+# 第1届Service Mesh Meetup杭州站
 
 时间：2018年6月30日（星期六）
 
