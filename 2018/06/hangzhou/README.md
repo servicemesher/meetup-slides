@@ -4,6 +4,8 @@
 
 地点：杭州，蚂蚁Z空间，1号楼
 
+视频回放：http://www.itdks.com/eventlist/detail/2311
+
 ------
 
 本次 meetup 分享了以下四个主题。

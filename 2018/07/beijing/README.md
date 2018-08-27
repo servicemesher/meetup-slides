@@ -4,6 +4,8 @@
 
 地点：北京市海淀区中关村大街11号e世界财富中心A座B2
 
+视频回放：http://www.itdks.com/eventlist/detail/2455
+
 ## 讲师与演讲话题
 
 **张亮（京东金融数据研发负责人）：Service Mesh的延伸 —— 论道Database Mesh**
