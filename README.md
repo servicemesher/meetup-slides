@@ -8,6 +8,7 @@
 - 第四届，上海，2018年11月25日，[详情](2018/11/shanghai)
 - 第五届，广州，2019年1月6日，[详情](2019/01/guangzhou)
 - 第六届，广州，2019年8月11日，[详情](2019/08/guangzhou)
+- 第七届，成都，2019年10月26日，[详情](2019/10/chengdu)
 
 ### ServiceMesher 微信公众号
 
@@ -15,4 +16,4 @@
 <img src="https://ws4.sinaimg.cn/large/0069RVTdgy1ftv53rzfshj309k09k3yg.jpg" alt="ServiceMesher微信公众号"/>
 </p>
 
-ServiceMesher社区网站：http://www.servicemesher.com
+ServiceMesher社区网站：https://www.servicemesher.com
