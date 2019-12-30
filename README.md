@@ -12,7 +12,11 @@
 - 第八届，北京，2019年11月24日，[PPT 下载](2019/11/beijing)
 - 第九届，杭州，2019年12月28日，[PPT 下载](2019/12/hangzhou)
 
-### ServiceMesher 微信公众号
+## License
+
+[署名-非商业性使用-相同方式共享 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+## ServiceMesher 微信公众号
 
 <p align="center">
 <img src="https://ws4.sinaimg.cn/large/0069RVTdgy1ftv53rzfshj309k09k3yg.jpg" alt="ServiceMesher微信公众号"/>
