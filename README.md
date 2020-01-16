@@ -19,7 +19,7 @@
 ## ServiceMesher 微信公众号
 
 <p align="center">
-<img src="https://ws4.sinaimg.cn/large/0069RVTdgy1ftv53rzfshj309k09k3yg.jpg" alt="ServiceMesher微信公众号"/>
+<img src="https://ae01.alicdn.com/kf/Ud3e6500d112d4e98af8f7cc00059f043z.jpg" alt="ServiceMesher微信公众号"/>
 </p>
 
 ServiceMesher社区网站：https://www.servicemesher.com
