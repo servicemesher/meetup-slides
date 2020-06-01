@@ -6,9 +6,9 @@ Service Mesh Webinar#1，邀请多点生活平台架构组研发工程师陈鹏�
 
 随着多点生活的业务发展，传统微服务架构的面临升级困难的问题。在云原生的环境下，Service Mesh 能给我们带来什么好处。如何使用社区解决方案兼容现有业务场景，落地成符合自己的 Service Mesh 成为一个难点。服务之间主要通过 Dubbo 交互，本次分享将探索 Istio + MOSN 在 Dubbo 场景下的改造方案。
 
-**直播时间：**2020年5月28日（周四）20:00-21:00
+**直播时间：** 2020年5月28日（周四）20:00-21:00
 
-**直播回放：**https://www.bilibili.com/video/BV15k4y1r7n8
+**直播回放：** <https://www.bilibili.com/video/BV15k4y1r7n8>
 
 ## 分享嘉宾
 
